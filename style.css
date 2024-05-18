@@ -1,0 +1,26 @@
+#message{
+    border: 2px solid rgb(61, 186, 88);
+    width: 250px;
+    height: 60px;
+    background-color: rgb(22, 150, 107);
+}
+fieldset{
+    width: 290px;
+    border-color: rgb(14, 145, 147);
+    background-color: rgb(240, 255, 255);
+    
+}
+.body{
+    border: 2px solid rgb(143, 90, 182);
+    background-color: pink;
+}
+.book{
+    border: 2px solid rgb(164, 195, 202);
+    width: 160px;
+    background-color: rgb(214, 111, 164);
+}
+.size{
+    border: 2px solid rgb(225, 97, 97);
+    width: 220px;
+    background-color: rgb(185, 109, 220);
+}
